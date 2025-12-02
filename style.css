@@ -1,0 +1,42 @@
+head nav ul {
+  width: 1280px; /* 本に書いてあったから試した */
+  height: 600px;
+  background-color: white;
+  position: relative;
+  display: flex;
+}
+
+h1 {
+  top: 10px;
+  left: 230px;
+  width: 120px;
+  height: 40px;
+  padding: 6px;
+  margin: 6px auto;
+  color: white;
+  background: #393e46 no-repeat padding-box;
+  position: absolute;
+}
+h2 {
+  top: 20px;
+  left: 931px;
+  width: 41px;
+  height: 21px;
+  font-size: large;
+  color: #24292e;
+  position: absolute;
+}
+H3 {
+  top: 20px;
+  left: 1021px;
+  width: 48px;
+  height: 21px;
+  font-size: large;
+  color: #24292e;
+  position: absolute;
+}
+
+main {
+  width: 600px;
+  margin: auto;
+}
